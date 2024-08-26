@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "Name": "Komron",
+      "Password": "1234",
+      "Coins": 5760,
+      "coinLimit": 1000,
+      "maxCoinLimit": 1000
+    },
+    {
+      "id": "2",
+      "Name": "nmadur",
+      "Password": "1234",
+      "Coins": 0,
+      "maxCoinLimit": 1000,
+      "coinLimit": 1000
+    },
+    {
+      "id": "3",
+      "Name": "hack",
+      "Password": "1234",
+      "Coins": 0,
+      "coinLimit": 1000,
+      "maxCoinLimit": 1000
+    }
+  ]
+}
